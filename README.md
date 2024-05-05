@@ -18,3 +18,6 @@ I'm Josie, being a developer, for me, seems like a profession, fun, a time well 
  
 
  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
+
+ 
+[](https://komarev.com/ghpvc/?username=josie240179)
