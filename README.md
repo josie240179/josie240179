@@ -13,6 +13,8 @@ I'm Josie, being a developer, for me, seems like a profession, fun, a time well 
 
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JAVA-logo"/>
 
- <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> <a href="https://www.instagram.com/menesesjosie"/>
+ <a href="https://www.instagram.com/menesesjosie"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+ 
+ 
 
  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
