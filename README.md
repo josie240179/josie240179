@@ -4,8 +4,8 @@ I'm Josie, being a developer, for me, seems like a profession, fun, a time well 
 - 🔭 I’m currently working!! everyday is day!
 - 🌱 I’m currently learning new things!!
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help as i can!
-- 💬 Ask me about opportunities!!
+- 🤔 I’m looking for your help allways !
+- 💬 suggest me about opportunities!!
 
  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML-logo"/> 
 
