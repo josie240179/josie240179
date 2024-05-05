@@ -21,4 +21,4 @@ I'm Josie, being a developer, for me, seems like a profession, fun, a time well 
 
  
 ![](https://komarev.com/ghpvc/?username=josie240179)
-[![Josie's GitHub stats](https://github-readme-stats.vercel.app/api?username=josie240179)]
+![Josie's GitHub stats](https://github-readme-stats.vercel.app/api?username=josie240179)
